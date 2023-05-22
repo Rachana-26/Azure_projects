@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "natGateways_NATgat_name": {
+            "value": null
+        },
+        "virtualMachines_vm1_name": {
+            "value": null
+        },
+        "virtualMachines_vm2_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet2_name": {
+            "value": null
+        },
+        "loadBalancers_loadbal3_name": {
+            "value": null
+        },
+        "publicIPAddresses_newipp_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm2_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_frontip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm1ip660_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1584_z2_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2593_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm1nsg222_name": {
+            "value": null
+        }
+    }
+}

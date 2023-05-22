@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "natGateways_nat_name": {
+            "value": null
+        },
+        "virtualMachines_vm1_name": {
+            "value": null
+        },
+        "virtualMachines_vm2_name": {
+            "value": null
+        },
+        "publicIPAddresses_natpub_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm2_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm1610_z1_name": {
+            "value": null
+        },
+        "networkInterfaces_vm2673_z1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm2_nsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_frontpubliip_name": {
+            "value": null
+        },
+        "virtualNetworks_tyrellcropvnet_name": {
+            "value": null
+        },
+        "applicationGateways_AGtyrellcrop_name": {
+            "value": null
+        },
+        "trafficManagerProfiles_traffprofiletyellcrop_name": {
+            "value": null
+        }
+    }
+}

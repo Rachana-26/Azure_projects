@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_restapp1_name": {
+            "value": null
+        },
+        "sites_restwebapp2_name": {
+            "value": null
+        },
+        "components_restapp1_name": {
+            "value": null
+        },
+        "components_restwebapp2_name": {
+            "value": null
+        },
+        "serverfarms_ASP_paasapporachRG_9a64_name": {
+            "value": null
+        },
+        "serverfarms_ASP_paasapporachRG_aff1_name": {
+            "value": null
+        },
+        "trafficManagerProfiles_paaswebapprestaurant_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___restapp1_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___restapp2_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___restwebapp2_name": {
+            "value": null
+        },
+        "components_restapp2_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_bf95d1af_b43a_40a6_a9e6_9e6b52ade80b_EUS_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_bf95d1af_b43a_40a6_a9e6_9e6b52ade80b_EA_externalid": {
+            "value": null
+        }
+    }
+}
