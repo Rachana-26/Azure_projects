@@ -3,7 +3,7 @@
 ### Steps to be followed
 
 1. Creating virtual machines
-2. Adding DNS names to virtual machines
+2. Adding DNS names in virtual netwotk of virtual machines
 3. Creating Traffic Manager
 4. Testing Traffic Manager endpoints
 
