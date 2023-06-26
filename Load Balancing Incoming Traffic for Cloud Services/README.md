@@ -12,7 +12,7 @@ REnterprises Corporation is to deploy a highly available web application using A
 
 ## Services
 
-Azure virtual networks, Azure virtual machines,Access Control (IAM)
+Azure virtual networks, Azure virtual machines,NAT gateway,Load balancer
 
 ## Resource visualizer(Architect Diagram)
 

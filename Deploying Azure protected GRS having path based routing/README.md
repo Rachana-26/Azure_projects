@@ -28,7 +28,7 @@ Azure virtual networks, Azure virtual machines,Application Gateway
 
 #### 3. Virtual machines are created vm1 and vm2 and installed IISA server and for vm2 in rootiisa folder image folder and html doc. Is created for image/\* path URL
 
-#### 4. Application gateway is created 5. backendpool with pool as the web server vm1 and image as the vm2 with image/\* path
+#### 4. Application gateway is created backendpool with pool as the web server vm1 and image as the vm2 with image/\* path
 
 ![ss](./image/2.png)
 
@@ -40,11 +40,11 @@ Azure virtual networks, Azure virtual machines,Application Gateway
 
 ![ss](./image/4.png)
 
-#### 6. With path URL as default http://yourfrontendipaddress vm1 web server is display
+#### 7. With path URL as default http://yourfrontendipaddress vm1 web server is display
 
 ![ss](./image/5.png)
 
-#### 7. With path URL with image/test.htm file http://yourfrontrndipaddress/image/test.htm vm2 web server is display
+#### 8. With path URL with image/test.htm file http://yourfrontrndipaddress/image/test.htm vm2 web server is display
 
 ![ss](./image/6.png)
 
