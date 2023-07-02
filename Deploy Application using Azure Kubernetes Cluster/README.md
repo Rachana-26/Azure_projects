@@ -18,7 +18,7 @@ These steps provide a brief overview of deploying and testing a multi-container 
 
 ## Services
 
-Azure Kubernetes Service (AKS),Azure CLI , Azure Moniter
+Azure Kubernetes Service (AKS),Azure CLI , Azure Monitor
 
 ## Deployment steps and Screenshot
 
@@ -32,7 +32,7 @@ Azure Kubernetes Service (AKS),Azure CLI , Azure Moniter
 
 ##### 2. Open Azure CLI from the Azure Portal button from top-right corner. Bash Azure Cloud Shell will pop from the bottom Get access credentials for a managed Kubernetes cluster.
 
-### 2.1 az aks get-credentials --resource-group YourResourceGroupNAME --name YourAKSClusterNAME
+az aks get-credentials --resource-group YourResourceGroupNAME --name YourAKSClusterNAME
 
 ##### 3. Verify the connection to your cluster using the "kubectl get nodes" This command returns a list of the cluster nodes. (We have 2)Run the Application The sample Azure Vote Python applications. A Redis instance.
 
@@ -42,7 +42,7 @@ Azure Kubernetes Service (AKS),Azure CLI , Azure Moniter
 
 -paste below content into the nano editor for votingapp.yaml file
 
-### 4.1 run > nano votingapp.yaml
+run > nano votingapp.yaml
 
 apiVersion: apps/v1
 kind: Deployment
