@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "managedClusters_votingapp_name": {
+            "value": null
+        },
+        "actionGroups_RecommendedAlertRules_AG_1_name": {
+            "value": null
+        },
+        "dataCollectionRules_MSProm_eastus_votingapp_name": {
+            "value": null
+        },
+        "metricAlerts_CPU_Usage_Percentage___votingapp_name": {
+            "value": null
+        },
+        "dataCollectionEndpoints_MSProm_eastus_votingapp_name": {
+            "value": null
+        },
+        "metricAlerts_Memory_Working_Set_Percentage___votingapp_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_3f6bd9fd_e190_4d22_b924_90112b4e7dfd_EUS_externalid": {
+            "value": null
+        },
+        "publicIPAddresses_a1c903c4_a5b4_4fa4_a92b_78590bda8d10_externalid": {
+            "value": null
+        },
+        "userAssignedIdentities_votingapp_agentpool_externalid": {
+            "value": null
+        },
+        "accounts_defaultazuremonitorworkspace_eus_externalid": {
+            "value": null
+        }
+    }
+}
