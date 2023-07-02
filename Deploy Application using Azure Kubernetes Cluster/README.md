@@ -43,7 +43,8 @@ az aks get-credentials --resource-group YourResourceGroupNAME --name YourAKSClus
 -paste below content into the nano editor for votingapp.yaml file
 
 run > nano votingapp.yaml
-[yaml.file](yaml file)
+
+[yaml.file](file.txt)
 
 ![ss](./image/3.png)
 
